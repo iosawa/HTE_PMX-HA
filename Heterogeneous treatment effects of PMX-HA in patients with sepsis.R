@@ -6,7 +6,6 @@
 ## Load packages
 library("tidyverse")
 library("dplyr")
-library("ggplot2")
 library("grf")
 
 ## Read the "Jseptic-DIC" cohort dataset
